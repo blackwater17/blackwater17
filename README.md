@@ -1,5 +1,5 @@
 <h2 align="center"> <strong> Hello there!👋 </strong> </h2>
-<p align="center"> I'm Asil, Frontend developer from <b>Istanbul, Turkey</b>. Here are some of the technologies I've used: </p>
+<p align="center"> I'm Asil, a Frontend developer from <b>Istanbul, Turkey</b>. Here are some of the technologies I've used: </p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
